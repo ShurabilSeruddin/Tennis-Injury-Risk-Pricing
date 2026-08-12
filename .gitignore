@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+# Source match archive is cloned by the pipeline, not committed (45MB+,
+# and it carries a NonCommercial licence - see README section 7).
+data/raw/
+outputs/models/*.joblib
+.DS_Store
