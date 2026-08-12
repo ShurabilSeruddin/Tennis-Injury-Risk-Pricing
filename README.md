@@ -31,8 +31,9 @@ This project answers all three from publicly available data, and is explicit
 about where the answers are weak.
 
 ## 2. Headline results
-![Calibration and ROC](outputs/figures/calibration_and_roc.png)
-![Premium sensitivity](outputs/figures/sensitivity_tornado.png)
+<img width="858" height="598" alt="sensitivity_tornado" src="https://github.com/user-attachments/assets/f7ec90ae-99fb-4196-bc08-5212d6447fc1" />
+<img width="1170" height="442" alt="calibration_and_roc" src="https://github.com/user-attachments/assets/41641101-284f-44ec-9a30-e8ccbd0fedf7" />
+
 | Metric | Value | Reading |
 |---|---|---|
 | Event rate (base) | 1.84% per player-match | ~1 non-completion per 54 matches |
